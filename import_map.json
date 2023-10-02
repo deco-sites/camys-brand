@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/camys-brand/": "./",
+
     "deco-sites/deco-bf/": "./",
 
     "$store/": "./",
